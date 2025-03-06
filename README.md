@@ -1,12 +1,12 @@
 # SE-DAY5-Technical-Writing
 How can understanding your audience’s expertise level (tech experts vs. regular folks) shape the way you present technical information?
-It will need you accessand read the room before presenting, because in a room where there are beginners they need a step-by-step explanation. While experts just need quick information, based on their knowedge. It is important to tailor the content based on what the audience already knows.
+It will need you know your audience before presenting, because in a room where there are beginners they need a step-by-step explanation. While experts just need quick information, based on their knowledge. It is important to tailor the content based on what the audience already knows or don't know.
 
 What are some strategies to tailor your content to different audience types?
 You should write with the reader in mind,(What do they know? What do they need to learn?). Cut out unnecessary words and make every word count, avoid jargon or complicated terms. Structure your writing, like building blocks starting with the basics and build up.
 
 How can you gauge the existing knowledge of your audience to avoid overwhelming them with jargon?
-Use simple language, terms that everyone in the room will comprehend.
+Use simple language, terms that everyone in the room will be able to comprehend.
 
 What techniques can you use to ensure your content is accessible to those with limited technical knowledge?
 You can add diagrams that show how a system works, screenshots of software and charts to explain data.
